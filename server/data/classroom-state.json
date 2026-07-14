@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "revision": 1,
+  "lastUpdated": "2026-07-14T00:00:00.000Z",
+  "school": {
+    "schoolName": "",
+    "classroomName": "",
+    "teacherName": "",
+    "subjectName": "",
+    "logoDataUrl": ""
+  },
+  "lesson": {
+    "title": "",
+    "description": "",
+    "startTime": "",
+    "endTime": "",
+    "status": "aguardando",
+    "notes": "",
+    "currentActivity": null,
+    "nextActivity": null
+  },
+  "agenda": [],
+  "notices": [],
+  "tasks": [],
+  "birthdays": [],
+  "timer": {
+    "durationSeconds": 1500,
+    "elapsedBeforeStart": 0,
+    "startedAt": null,
+    "pausedAt": null,
+    "status": "stopped",
+    "warnedFiveMinutes": false,
+    "warnedOneMinute": false
+  },
+  "appearance": {
+    "theme": "school-blue",
+    "mode": "light",
+    "fontScale": 1,
+    "radius": "rounded",
+    "density": "comfortable",
+    "animations": true
+  },
+  "display": {
+    "layout": "complete",
+    "showSeconds": true,
+    "clockFormat": "24h",
+    "showDate": true,
+    "showTeacher": true,
+    "showSubject": true,
+    "showAgenda": true,
+    "showTasks": true,
+    "showBirthdays": true,
+    "showMessage": true,
+    "dailyMessage": "",
+    "rotateNotices": true,
+    "noticeRotationSeconds": 8,
+    "soundsEnabled": false,
+    "volume": 0.5,
+    "controlsAutoHideSeconds": 6,
+    "keepAwake": true
+  },
+  "history": [],
+  "pin": {
+    "enabled": false,
+    "hash": ""
+  }
+}
